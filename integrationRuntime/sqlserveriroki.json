@@ -1,0 +1,6 @@
+{
+	"name": "sqlserveriroki",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
